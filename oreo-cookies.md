@@ -1,2 +1,5 @@
-go to the store.
-buy cookies.
+# steps
+
+* go to the store.
+* buy cookies.
+* yum!
